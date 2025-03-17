@@ -9,7 +9,13 @@ _Entendendo o que é **git**, aprendendo sobre **repostório**, trabalhando com 
 * Começando com Git.
 * Aprendendo sobre branches.
 * Git avançado.
-* Usando github fr forma profissional.
+* Usando github de forma profissional.
+
+
+1. Começando com Git.
+2. Aprendendo sobre branches.
+3. Git avançado.
+4. Usando github de forma profissional.
 
 ### Rede social:
 [Instagram](https://instagram.com/thiago.ribeirot)
