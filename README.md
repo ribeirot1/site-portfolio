@@ -29,34 +29,36 @@ _Entendendo o que é **git**, aprendendo sobre **repostório**, trabalhando com 
 
 **Comando para rodas o projeto:**
 
-'''
+```
 npm star
-'''
+```
 
 **Exemplo de uso do script:**
 
-'''js
-function showname(name){
-    return 'Bem vindo: '+ name;
-}
-'''
+```javascript
+var headline = `${greetings}, ${location}${enthusiasm_level}`;
+$("#post").html`
+  <h1>${headline}</h1>
+  ${body}
+`;
+```
 
 **Uso de HMTL:**
 
-'''html
+```html
 <h1> Titulo projeto
 <span>curso git</span>
 </h1>
-'''
+```
 
 **CSS padrão do prjeto:**
 
-'''css
+```css
 .titulo{
     background-color: #FFF;
 color: #FF0000
 }
-'''
+```
 
 
 
