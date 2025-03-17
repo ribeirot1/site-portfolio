@@ -19,8 +19,8 @@ _Entendendo o que é **git**, aprendendo sobre **repostório**, trabalhando com 
 
 
 1. Começando com Git.
-        1. O q é git?
-        2. instalando git na maquina.
+  1. O q é git?
+  2. instalando git na maquina.
 2. Aprendendo sobre branches.
 3. Git avançado.
 4. Usando github de forma profissional.
