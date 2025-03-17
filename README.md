@@ -13,14 +13,51 @@ _Entendendo o que é **git**, aprendendo sobre **repostório**, trabalhando com 
 
 
 1. Começando com Git.
-         1. O q é git?
-         2. instalando git na maquina.
+        1. O q é git?
+        2. instalando git na maquina.
 2. Aprendendo sobre branches.
 3. Git avançado.
 4. Usando github de forma profissional.
 
 ### Rede social:
 [Instagram](https://instagram.com/thiago.ribeirot)
+
+
+>Este é um blockquote, usado para destacar uma area.
+>
+>segundaarea destacada
+
+**Comando para rodas o projeto:**
+
+'''
+npm star
+'''
+
+**Exemplo de uso do script:**
+
+'''js
+function showname(name){
+    return 'Bem vindo: '+ name;
+}
+'''
+
+**Uso de HMTL:**
+
+'''html
+<h1> Titulo projeto
+<span>curso git</span>
+</h1>
+'''
+
+**CSS padrão do prjeto:**
+
+'''css
+.titulo{
+    background-color: #FFF;
+color: #FF0000
+}
+'''
+
 
 
 # Titulo <h1>
