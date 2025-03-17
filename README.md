@@ -1,4 +1,4 @@
-![logo do meu time](https://seeklogo.com/images/E/escudo-botafogo-logo-FA0F8A09E1-seeklogo.com.png)
+![logo do meu time](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
 # Bem vindo ao curso GitHub
 Neste curso você vai dominar o **Git** e **GitHub** _do zero ao profissional._
@@ -6,6 +6,10 @@ Neste curso você vai dominar o **Git** e **GitHub** _do zero ao profissional._
 ## Módulos
 _Entendendo o que é **git**, aprendendo sobre **repostório**, trabalhando com **branches**._
 
+* Começando com Git.
+* Aprendendo sobre branches.
+* Git avançado.
+* Usando github fr forma profissional.
 
 ### Rede social:
 [Instagram](https://instagram.com/thiago.ribeirot)
