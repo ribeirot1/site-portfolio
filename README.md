@@ -1,5 +1,12 @@
 ![logo do meu time](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
+[Bem vindo](#bem-vindo-ao-curso-github) |
+[Módulos](#módulos) |
+[Rede social](#rede-social) |
+[Exemplo script](#exemplo-de-uso-do-script) |
+[Exemplo #](lista-de--simulando-html-h1-até-h6-de-header) |
+[Exemplo de tabela](#exemplo-de-tabela)
+
 # Bem vindo ao curso GitHub
 Neste curso você vai dominar o **Git** e **GitHub** _do zero ao profissional._
 
@@ -68,7 +75,7 @@ color: #FF0000
 }
 ```
 
-### Lista de # simulando Html 1 até h6 de header.
+### Lista de # simulando Html h1 até h6 de header.
 
 # Titulo <h1>
 
