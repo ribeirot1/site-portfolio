@@ -5,7 +5,7 @@
 [Módulos](#módulos) |
 [Rede social](#rede-social) |
 [Exemplo script](#exemplo-de-uso-do-script) |
-[Exemplo #](lista-de--simulando-html-h1-até-h6-de-header) |
+[Exemplo #](#lista-de--simulando-html-h1-até-h6-de-header) |
 [Exemplo de tabela](#exemplo-de-tabela)
 
 # Bem vindo ao curso GitHub
