@@ -19,8 +19,8 @@ _Entendendo o que é **git**, aprendendo sobre **repostório**, trabalhando com 
 
 
 1. Começando com Git.
-  1. O q é git?
-  2. instalando git na maquina.
+        1. O q é git?
+        2. instalando git na maquina.
 2. Aprendendo sobre branches.
 3. Git avançado.
 4. Usando github de forma profissional.
@@ -39,8 +39,12 @@ _Entendendo o que é **git**, aprendendo sobre **repostório**, trabalhando com 
 npm star
 ```
 
-**Exemplo de uso do script:**
+### Exemplo de uso do script:
 
+
+Liguagem | Exemplo
+-------- | --------
+Javascript | 
 ```javascript
 var headline = `${greetings}, ${location}${enthusiasm_level}`;
 $("#post").html`
@@ -48,17 +52,13 @@ $("#post").html`
   ${body}
 `;
 ```
-
-**Uso de HMTL:**
-
+HMTL | 
 ```html
 <h1> Titulo projeto
 <span>curso git</span>
 </h1>
 ```
-
-**CSS padrão do prjeto:**
-
+CSS | 
 ```css
 .titulo{
     background-color: #FFF;
