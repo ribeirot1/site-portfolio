@@ -1,4 +1,4 @@
-### .
+### 
 ![logo do meu time](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
 [Bem vindo](#bem-vindo-ao-curso-github) |
@@ -17,7 +17,7 @@ Neste curso você vai dominar o **Git** e **GitHub** _do zero ao profissional._
 - [ ] Login com facebook
 - [ ] Pagina sobre a empresa
 
-[Voltar topo](#bem-vindo-ao-curso-github)
+[Voltar topo](#)
 ## Módulos
 _Entendendo o que é **git**, aprendendo sobre **repostório**, trabalhando com **branches**._
 
@@ -34,7 +34,7 @@ _Entendendo o que é **git**, aprendendo sobre **repostório**, trabalhando com 
 3. Git avançado.
 4. Usando github de forma profissional.
 
-[Voltar topo](#bem-vindo-ao-curso-github)
+[Voltar topo](#)
 ### Rede social:
 [Instagram](https://instagram.com/thiago.ribeirot)
 
@@ -43,7 +43,7 @@ _Entendendo o que é **git**, aprendendo sobre **repostório**, trabalhando com 
 >
 >segundaarea destacada
 
-[Voltar topo](#bem-vindo-ao-curso-github)
+[Voltar topo](#)
 **Comando para rodas o projeto:**
 
 ```
@@ -78,7 +78,7 @@ $("#post").html`
 color: #FF0000
 }
 ```
-[Voltar topo](#bem-vindo-ao-curso-github)
+[Voltar topo](#)
 ### Lista de # simulando Html h1 até h6 de header.
 
 # Titulo <h1>
@@ -93,7 +93,7 @@ color: #FF0000
 
 ###### Titulo <h6>
 
-[Voltar topo](#bem-vindo-ao-curso-github)
+[Voltar topo](#)
 ### Exemplo de tabela
 
 Propriedade | Descrição
@@ -103,4 +103,4 @@ Size | Para definir o **tamanho** do campo
 Background | Cor do **fundo** da area em _Hex_
 onPress | Função chamada quando clicar no botão
 
-[Voltar topo](#bem-vindo-ao-curso-github)
+[Voltar topo](#)
