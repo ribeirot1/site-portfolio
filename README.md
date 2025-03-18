@@ -41,10 +41,8 @@ npm star
 
 ### Exemplo de uso do script:
 
+**Uso de javascript:**
 
-Liguagem | Exemplo
--------- | --------
-Javascript | 
 ```javascript
 var headline = `${greetings}, ${location}${enthusiasm_level}`;
 $("#post").html`
@@ -52,13 +50,17 @@ $("#post").html`
   ${body}
 `;
 ```
-HMTL | 
+
+**Uso de HMTL:**
+
 ```html
 <h1> Titulo projeto
 <span>curso git</span>
 </h1>
 ```
-CSS | 
+
+**CSS padrão do prjeto:**
+
 ```css
 .titulo{
     background-color: #FFF;
@@ -66,7 +68,7 @@ color: #FF0000
 }
 ```
 
-
+### Lista de # simulando Html 1 até h6 de header.
 
 # Titulo <h1>
 
@@ -78,3 +80,13 @@ color: #FF0000
 
 ##### Titulo <h5>
 
+###### Titulo <h6>
+
+### Exemplo de tabela
+
+Propriedade | Descrição
+----------- | -----------
+Nome | Para informar o **nome** do usuario.
+Size | Para definir o **tamanho** do campo
+Background | Cor do **fundo** da area em _Hex_
+onPress | Função chamada quando clicar no botão
